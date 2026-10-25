@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">oDialer Pro</string>
+    <string name="acc_desc">Keeps the call recorder alive so it can capture call audio on newer Android versions. It does not read your screen.</string>
+</resources>
